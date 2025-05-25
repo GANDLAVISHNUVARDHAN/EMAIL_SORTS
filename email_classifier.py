@@ -12,7 +12,7 @@ UNSUBSCRIBE_KEYWORDS = [
     'communication preferences', 'update communication settings',
     'manage my subscription', 'remove me from the list', 'update your profile',
     'end subscription', 'email opt-out', 'cancel subscription', 'pause emails',
-    'change subscription options' ,  "manage your subscription settings" ," leave the list"
+    'change subscription options' ,  "manage your subscription settings" ,"leave the list"
 ]
 
 INVALID_HINTS = ['tracking', 'click', 'ad', 'promo', 'offer', 'spam', 'redirect']
