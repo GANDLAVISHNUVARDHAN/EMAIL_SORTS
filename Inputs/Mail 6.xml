@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Newsletter #4</title>
+</head>
+<body style="font-family: Arial, sans-serif; background:#f9f9f9; padding:20px;">
+    <table width="600" align="center" style="background:#fff; padding:20px; border-radius:5px;">
+        <tr>
+            <td>
+                <h2 style="color:#333;">Monthly Highlights</h2>
+                <p>Explore our new features:</p>
+                <ul>
+                    <li><a href="https://example.com/features" target="_blank">Features</a></li>
+                    <li><a href="https://example.com/contact" target="_blank">Contact</a></li>
+                </ul>
+                <p>Stay tuned for more updates!</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

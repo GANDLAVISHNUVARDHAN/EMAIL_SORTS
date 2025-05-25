@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Newsletter #3</title>
+</head>
+<body style="font-family: Arial, sans-serif; background:#f9f9f9; padding:20px;">
+    <table width="600" align="center" style="background:#fff; padding:20px; border-radius:5px;">
+        <tr>
+            <td>
+                <h2 style="color:#333;">Latest Updates</h2>
+                <p>Useful links for you:</p>
+                <ul>
+                    <li><a href="https://example.com/products" target="_blank">Products</a></li>
+                    <li><a href="https://example.com/services" target="_blank">Services</a></li>
+                    <li><a href="https://example.com/help" target="_blank">Help Desk</a></li>
+                </ul>
+                <p>To manage your subscription preferences, click <a href="https://example.com/preferences" target="_blank">Manage Preferences</a>.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

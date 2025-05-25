@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Email 2</title>
+</head>
+<body style="font-family: Verdana, sans-serif; background-color: #fff; padding: 15px;">
+    <h1>Welcome!</h1>
+    <p>Thanks for joining us.</p>
+    <p>Visit our <a href="https://example.com/help">help center</a> or 
+    <a href="https://example.com/preferences">manage your preferences</a>.</p>
+    <p>If you want to stop receiving emails, <a href="https://example.com/optout">opt-out here</a>.</p>
+</body>
+</html>

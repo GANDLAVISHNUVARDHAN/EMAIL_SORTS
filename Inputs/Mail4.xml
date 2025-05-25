@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Newsletter #2</title>
+</head>
+<body style="font-family: Arial, sans-serif; background:#f9f9f9; padding:20px;">
+    <table width="600" align="center" style="background:#fff; padding:20px; border-radius:5px;">
+        <tr>
+            <td>
+                <h2 style="color:#333;">Your Weekly Digest</h2>
+                <p>Explore latest articles:</p>
+                <ul>
+                    <li><a href="https://example.com/article" target="_blank">Article 1</a></li>
+                    <li><a href="https://example.com/article2" target="_blank">Article 2</a></li>
+                    <li><a href="https://example.com/contact" target="_blank">Contact Us</a></li>
+                </ul>
+                <p>If you want to leave mailing list, click <a href="https://tracking.example.com/click?id=12345" target="_blank">unsubscribe</a>.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

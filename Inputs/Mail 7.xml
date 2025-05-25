@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Newsletter #5</title>
+</head>
+<body style="font-family: Arial, sans-serif; background:#f9f9f9; padding:20px;">
+    <table width="600" align="center" style="background:#fff; padding:20px; border-radius:5px;">
+        <tr>
+            <td>
+                <h2 style="color:#333;">Special Offers</h2>
+                <p>Grab latest deals:</p>
+                <ul>
+                    <li><a href="https://example.com/deals" target="_blank">Deals</a></li>
+                    <li><a href="https://example.com/contact" target="_blank">Contact</a></li>
+                </ul>
+                <p>If you want to unsubscribe, click <a href="http://bit.ly/unsub123" target="_blank">unsubscribe here</a>.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
